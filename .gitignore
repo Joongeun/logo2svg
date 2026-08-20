@@ -1,0 +1,4 @@
+__pycache__/
+*.pbm
+diff.png
+.DS_Store
